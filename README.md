@@ -19,6 +19,7 @@ Chinese, rhythm game player, univ student, the one and the only, i0nTempest
 
 Twitter (NSFW): [@i0ntempest](https://twitter.com/i0ntempest) \
 Bilibili: [i0ntempest](https://space.bilibili.com/14848087) \
+Steam Community: [i0nTempest](https://steamcommunity.com/id/i0ntempest/) \
 Emails, QQ, and WeChat only given to the trusted \
 Weibo? I don't use that shit pit
 
