@@ -3,7 +3,7 @@ Chinese, rhythm game player, univ student, the one and the only, i0nTempest
 
 ## Interests
 - iOS, macOS, Apple stuff, Jailbreaking, Hackintoshing, MacPorts
-- PCs, battlestations, hardware, Intel, AMD, NVIDIA, eGPU
+- PCs, battlestations, hardware, Intel, AMD, NVIDIA, Thunderbolt, eGPU
 - Bash, Python, a bit of Java
 - Linux, Raspberry Pi
 - Networking, home servers, routers, security, pentesting, kali
