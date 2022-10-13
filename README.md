@@ -1,12 +1,12 @@
 ### Wassup boiiiiiis 👋
-Chinese, rhythm game player, univ student, the one and the only, i0nTempest
+Chinese, rhythm gamer, university student, the one and the only, i0nTempest
 
 ## Interests
 - iOS, macOS, Apple stuff, Jailbreaking, Hackintoshing, MacPorts
 - PCs, battlestations, hardware, Intel, AMD, NVIDIA, Thunderbolt, eGPU
 - Bash, Python, a bit of Java
 - Linux, Raspberry Pi
-- Networking, home servers, routers, security, pentesting, kali
+- Networking, home servers, routers, security, pentesting, social engineering, kali
 - Civil Aviation, Boeing, AirBus, Bombardier, McDonnell Douglas, ACI, Airports, TNA, PEK, PKX, PVG, YYZ, YVR
 - Racing, Distance, NFS
 - Anime, mobile games, Azur Lane, Genshin, Blue Archive
