@@ -7,7 +7,7 @@ Chinese, rhythm gamer, university student, the one and the only, i0nTempest
 - Bash, Python, a bit of Java
 - Linux, Raspberry Pi
 - Networking, home servers, routers, security, pentesting, social engineering, kali
-- Civil Aviation, Boeing, AirBus, Bombardier, McDonnell Douglas, ACI, Airports, TNA, PEK, PKX, PVG, YYZ, YVR
+- Civil Aviation, Boeing, Airbus, Bombardier, McDonnell Douglas, ACI, Airports, TNA, PEK, PKX, PVG, YYZ, YVR
 - Racing, Distance, NFS
 - Anime, mobile games, Azur Lane, Genshin, Blue Archive
 - Rhythm Games, Dynamix, OverRapid, osu!, SDVX
