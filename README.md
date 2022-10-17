@@ -2,12 +2,12 @@
 Chinese, rhythm gamer, university student, the one and the only, i0nTempest
 
 ## Interests
-- iOS, macOS, Apple stuff, Jailbreaking, Hackintoshing, MacPorts
+- iOS, macOS, Apple, Jailbreaking, Hackintoshing, MacPorts
 - PCs, battlestations, hardware, Intel, AMD, NVIDIA, Thunderbolt, eGPU
 - Bash, Python, a bit of Java
 - Linux, Raspberry Pi
 - Networking, home servers, routers, security, pentesting, social engineering, kali
-- Civil Aviation, Boeing, Airbus, Bombardier, McDonnell Douglas, ACI, Airports, TNA, PEK, PKX, PVG, YYZ, YVR
+- Civil Aviation, Boeing, Airbus, Bombardier, McDonnell Douglas, ACI, airports, TNA, PEK, PKX, PVG, YYZ, YVR
 - Racing, Distance, NFS
 - Anime, mobile games, Azur Lane, Genshin, Blue Archive
 - Rhythm Games, Dynamix, OverRapid, osu!, SDVX
