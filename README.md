@@ -11,7 +11,7 @@ Chinese, rhythm gamer, university student, the one and the only, i0nTempest
 - Racing, Distance, NFS
 - Anime, mobile games, Azur Lane, Genshin, Blue Archive
 - Rhythm Games, Dynamix, OverRapid, osu!, SDVX
-- Electronic Music, Hardcore, Drum & Bass, Drumstep, Big Room, Future Bass
+- Electronic Music, Hardcore, Artcore, Drum & Bass, Drumstep, Big Room, Complextro, Future Bass
 
 <img src="https://github-readme-stats-mrdulin.vercel.app/api?username=i0ntempest&show_icons=true&hide_border=true&icon_color=79dafa&title_color=50eeee&text_color=ccff00%22%20align=%22right%22%3E">
 
