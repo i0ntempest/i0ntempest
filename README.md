@@ -6,12 +6,13 @@ Chinese, rhythm gamer, university student, the one and the only, i0nTempest
 - PCs, battlestations, hardware, Intel, AMD, NVIDIA, Thunderbolt, eGPU
 - Bash, Python, a bit of Java
 - Linux, Raspberry Pi
-- Networking, home servers, routers, security, pentesting, social engineering, kali
+- Networking, home servers, routers, security, pentesting, social engineering, Kali
 - Civil Aviation, Boeing, Airbus, Bombardier, McDonnell Douglas, ACI, airports, TNA, PEK, PKX, PVG, YYZ, YVR
-- Racing, Distance, NFS
+- Racing, Distance, NFS, Forza
 - Anime, mobile games, Azur Lane, Genshin, Blue Archive
 - Rhythm Games, Dynamix, OverRapid, osu!, SDVX
 - Electronic Music, Hardcore, Artcore, Drum & Bass, Drumstep, Big Room, Complextro, Future Bass
+- VRChat, Unity, Blender (very newbie)
 
 <img src="https://github-readme-stats-mrdulin.vercel.app/api?username=i0ntempest&show_icons=true&hide_border=true&icon_color=79dafa&title_color=50eeee&text_color=ccff00%22%20align=%22right%22%3E">
 
