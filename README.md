@@ -1,5 +1,5 @@
 ### Wassup boiiiiiis 👋
-Chinese, rhythm gamer, university student, the one and the only, i0nTempest
+Chinese, rhythm gamer, university graduate, the one and the only, i0nTempest
 
 ## Interests
 - iOS, macOS, Apple, Jailbreaking, Hackintoshing, MacPorts
