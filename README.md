@@ -18,7 +18,7 @@ Chinese, rhythm gamer, kigurumi cosplayer, cybersec postgrad, the one and the on
 
 ## Contacts
 
-Twitter (NSFW): [@i0ntempest](https://twitter.com/i0ntempest) \
+Twitter/X (NSFW): [@i0ntempest](https://twitter.com/i0ntempest) \
 Bilibili: [i0ntempest](https://space.bilibili.com/14848087) \
 Steam Community: [i0nTempest](https://steamcommunity.com/id/i0ntempest/) \
 Emails, QQ, and WeChat only given to the trusted \
