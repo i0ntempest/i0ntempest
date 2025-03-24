@@ -1,5 +1,5 @@
 ### Wassup boiiiiiis 👋
-Chinese, rhythm gamer, university graduate, the one and the only, i0nTempest
+Chinese, rhythm gamer, kigurumi cosplayer, cybersec postgrad, the one and the only, i0nTempest
 
 ## Interests
 - iOS, macOS, Apple, Jailbreaking, Hackintoshing, MacPorts
@@ -9,7 +9,7 @@ Chinese, rhythm gamer, university graduate, the one and the only, i0nTempest
 - Networking, home servers, routers, security, pentesting, social engineering, Kali
 - Civil Aviation, Boeing, Airbus, Bombardier, McDonnell Douglas, ACI, airports, TNA, PEK, PKX, PVG, YYZ, YVR
 - Racing, Distance, NFS, Forza
-- Anime, mobile games, Azur Lane, Genshin, Blue Archive
+- Anime, kigurumi, mobile games, Azur Lane, Genshin, Blue Archive
 - Rhythm Games, Dynamix, OverRapid, osu!, SDVX
 - Electronic Music, Hardcore, Artcore, Drum & Bass, Drumstep, Big Room, Complextro, Future Bass
 - VRChat, Unity, Blender (very newbie)
